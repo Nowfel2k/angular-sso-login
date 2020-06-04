@@ -1,6 +1,12 @@
-# SsoKlatchInternship
+# Klatch Internship Assignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+
+## To Run The Program:
+- clone repo
+- npm install
+- ng build
+- ng serve
 
 ## Development server
 
